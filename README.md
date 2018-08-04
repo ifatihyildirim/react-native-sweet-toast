@@ -1,6 +1,6 @@
 # react-native-sweet-toast
 
-<img src="https://raw.githubusercontent.com/ifatihyildirim/react-native-sweet-toast/master/assets/demo.gif" height="100">
+<img src="https://raw.githubusercontent.com/ifatihyildirim/react-native-sweet-toast/master/assets/demo.gif" width="350">
 
 ## Installation
 ```
