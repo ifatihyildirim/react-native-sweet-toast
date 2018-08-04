@@ -1,5 +1,7 @@
 # react-native-sweet-toast
 
+<img src="https://raw.githubusercontent.com/ifatihyildirim/react-native-sweet-toast/master/assets/demo.gif" height="100">
+
 ## Installation
 ```
 npm install react-native-sweet-toast --save
