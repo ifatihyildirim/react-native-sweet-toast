@@ -124,7 +124,7 @@ SweetToast.propTypes = {
   positionValue: PropTypes.number,
   style: PropTypes.shape(),
   children: PropTypes.element.isRequired,
-  onRef: PropTypes.node.isRequired,
+  onRef: PropTypes.func.isRequired,
 };
 
 SweetToast.defaultProps = {
