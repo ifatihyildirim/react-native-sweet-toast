@@ -1,11 +1,8 @@
 {
   "name": "react-native-sweet-toast",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "react native sweet toast",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./src/index.js",
   "keywords": [
     "react",
     "react-native",
@@ -15,9 +12,31 @@
     "sweet",
     "toast"
   ],
-  "author": "Isa Fatih Yıldırım",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifatihyildirim/react-native-sweet-toast.git"
+  },
+  "author": "İsa Fatih Yıldırım",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifatihyildirim/react-native-sweet-toast/issues"
+  },
+  "homepage": "https://github.com/ifatihyildirim/react-native-sweet-toast#readme",
+  "peerDependencies": {
+    "react": "^16.0.0-alpha.12",
+    "react-native": "^0.44.0"
+  },
   "dependencies": {
     "prop-types": "^15.5.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0"
   }
 }
